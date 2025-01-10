@@ -8,13 +8,14 @@ package java_curso;
 public class Main {
 
     public static void main(String[] args) {
-        Carro meuCarro = new Carro("Gol");
-        Carro outroCarro = new Carro("Fusca");
-        Carro carroDoMeuVizinho = new Carro("Celta");
+        Carro meuCarro = new Sandero();
+        Carro meuOutroCarro = new Mobi();
+
+        SerVivo serVivo = new Humano();
+        serVivo.respirar();
 
         meuCarro.acelerar();
-        outroCarro.acelerar();
-        carroDoMeuVizinho.acelerar();
+        meuOutroCarro.acelerar();
     }
 
 }

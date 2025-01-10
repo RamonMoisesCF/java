@@ -1,21 +1,9 @@
 package java_curso;
 
-public class Carro {
+public interface Carro {
+    void acelerar();
 
-    String modelo;
+    void frear();
 
-    public Carro(String modelo) {
-        this.modelo = modelo;
-    }
-
-    public void acelerar() {
-        System.out.println("Acelerando o carro " + this.modelo);
-    }
-}
-
-class Rodas {
-    public Rodas() {
-        Carro carro = new Carro("teste");
-        carro.acelerar();
-    }
+    void parar();
 }

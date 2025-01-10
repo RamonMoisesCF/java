@@ -14,57 +14,14 @@ public class Main {
         SerVivo serVivo = new Humano();
         serVivo.respirar();
 
-        meuCarro.acelerar();
-        meuCarro.acelerar();
-        meuCarro.acelerar();
-        meuCarro.acelerar();
-        meuCarro.acelerar();
-        meuCarro.acelerar();
-        meuCarro.acelerar();
-        meuCarro.acelerar();
-        meuCarro.acelerar();
-        meuCarro.acelerar();
-        meuCarro.acelerar();
-        meuCarro.acelerar();
-        meuCarro.acelerar();
-        meuCarro.acelerar();
-        meuCarro.acelerar();
-        meuCarro.acelerar();
-        meuCarro.acelerar();
+        Carro meuCarroFurado = null;
 
-        meuOutroCarro.acelerar();
-        meuOutroCarro.acelerar();
-        meuOutroCarro.acelerar();
-        meuOutroCarro.acelerar();
-        meuOutroCarro.acelerar();
-        meuOutroCarro.acelerar();
-        meuOutroCarro.acelerar();
-        meuOutroCarro.acelerar();
-        meuOutroCarro.acelerar();
-        meuOutroCarro.acelerar();
-        meuOutroCarro.acelerar();
-        meuOutroCarro.acelerar();
-        meuOutroCarro.acelerar();
-        meuOutroCarro.acelerar();
-        meuOutroCarro.acelerar();
-        meuOutroCarro.acelerar();
-        meuOutroCarro.acelerar();
-        meuOutroCarro.acelerar();
-        meuOutroCarro.acelerar();
-        meuOutroCarro.acelerar();
-        meuOutroCarro.acelerar();
-        meuOutroCarro.acelerar();
-        meuOutroCarro.acelerar();
-        meuOutroCarro.acelerar();
-        meuOutroCarro.acelerar();
-        meuOutroCarro.acelerar();
-        meuOutroCarro.acelerar();
-        meuOutroCarro.acelerar();
-        meuOutroCarro.acelerar();
-        meuOutroCarro.acelerar();
-        meuOutroCarro.acelerar();
-        meuOutroCarro.acelerar();
-        meuOutroCarro.acelerar();
+        try {
+            meuCarroFurado.acelerar();
+        } catch (NullPointerException exception) {
+            System.out.println("Vendo carro furado");
+        }
+
     }
 
 }

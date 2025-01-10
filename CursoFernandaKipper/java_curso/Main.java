@@ -15,6 +15,55 @@ public class Main {
         serVivo.respirar();
 
         meuCarro.acelerar();
+        meuCarro.acelerar();
+        meuCarro.acelerar();
+        meuCarro.acelerar();
+        meuCarro.acelerar();
+        meuCarro.acelerar();
+        meuCarro.acelerar();
+        meuCarro.acelerar();
+        meuCarro.acelerar();
+        meuCarro.acelerar();
+        meuCarro.acelerar();
+        meuCarro.acelerar();
+        meuCarro.acelerar();
+        meuCarro.acelerar();
+        meuCarro.acelerar();
+        meuCarro.acelerar();
+        meuCarro.acelerar();
+
+        meuOutroCarro.acelerar();
+        meuOutroCarro.acelerar();
+        meuOutroCarro.acelerar();
+        meuOutroCarro.acelerar();
+        meuOutroCarro.acelerar();
+        meuOutroCarro.acelerar();
+        meuOutroCarro.acelerar();
+        meuOutroCarro.acelerar();
+        meuOutroCarro.acelerar();
+        meuOutroCarro.acelerar();
+        meuOutroCarro.acelerar();
+        meuOutroCarro.acelerar();
+        meuOutroCarro.acelerar();
+        meuOutroCarro.acelerar();
+        meuOutroCarro.acelerar();
+        meuOutroCarro.acelerar();
+        meuOutroCarro.acelerar();
+        meuOutroCarro.acelerar();
+        meuOutroCarro.acelerar();
+        meuOutroCarro.acelerar();
+        meuOutroCarro.acelerar();
+        meuOutroCarro.acelerar();
+        meuOutroCarro.acelerar();
+        meuOutroCarro.acelerar();
+        meuOutroCarro.acelerar();
+        meuOutroCarro.acelerar();
+        meuOutroCarro.acelerar();
+        meuOutroCarro.acelerar();
+        meuOutroCarro.acelerar();
+        meuOutroCarro.acelerar();
+        meuOutroCarro.acelerar();
+        meuOutroCarro.acelerar();
         meuOutroCarro.acelerar();
     }
 
